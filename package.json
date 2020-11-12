@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node websites/imdbPlaylist.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
